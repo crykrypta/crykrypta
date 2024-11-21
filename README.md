@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crykrypta
 - 👀 I’m interested in AI Development 
-- 🌱 I’m currently learning FastAPI, API-OpenAI, aiogram, sqlalchemy
+- 🌱 I’m currently learning Langchain, Docker, SQLAlchemy and FastAPI
 - 💞️ I’m looking to collaborate on instresting projects 
 - 📫 Tg: @senseimastermind
