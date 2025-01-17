@@ -20,4 +20,4 @@ My **Tech Stack**
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/senseimastermind)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=crykrypta)(https://github.com/crykrypta/github-readme-stats)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=crykrypta&theme=dark)(https://github.com/crykrypta/github-readme-stats)]
