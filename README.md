@@ -28,5 +28,6 @@ My **Tech Stack**
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/senseimastermind)
 
+*"Yes, my stats not **A++**, but I love to look at, and improve my progress all the time!"*
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crykrypta&theme=dark)]
