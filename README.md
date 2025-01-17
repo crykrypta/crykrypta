@@ -3,7 +3,7 @@
 ## I'm a **Python Developer** and **AI Enthusiast**
 
 - 🔭 I’m currently working on **AI-agents** based on **LangGraph** and **LangChain**
-- 🌱 I’m currently learning **LangChain** and **LangGraph*
+- 🌱 I’m currently learning **LangChain** and **LangGraph**
 
 ### Some facts about me
 - In past I worked as **Sound Engineer**, and then own the record studio for 2 years
