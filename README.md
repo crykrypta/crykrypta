@@ -1,4 +1,4 @@
-# I'm Avet
+# I'm Avet (AI Agent Engineer)
 
 ## I'm a **Python Developer** and **AI Enthusiast**
 
